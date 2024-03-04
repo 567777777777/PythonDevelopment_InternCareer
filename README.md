@@ -5,9 +5,6 @@ Introduction:-
 
 Welcome to my repository documenting my thrilling internship journey! Over the past [3 month], I had the privilege of participating in the [inten career python devlopment] program, where I honed my Python development skills and tackled exciting challenges in data processing and automation.
 
-Internship Overview:-
-
-The [Intern career Internship] program provided me with hands-on experience and mentorship in Python development, equipping me with the tools and knowledge needed to thrive in the dynamic world of technology.
 
 Internship Tasks:-
 
